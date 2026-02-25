@@ -1,0 +1,12 @@
+POST http://localhost:3000/people
+Content-Type: application/json
+
+{
+  "name": "Jesus",
+  "age": 43,
+  "hairColor": "brown"
+}
+
+###
+
+GET http://localhost:3000/people

@@ -1,0 +1,17 @@
+export let people = [
+    {
+        name: "John",
+        age: 30,
+        hairColor: "brown"
+    },
+    {
+        name: "Jane",
+        age: 25,
+        hairColor: "blonde"
+    },
+    {
+        name: "Jim",
+        age: 35,
+        hairColor: "black"
+    }
+];
